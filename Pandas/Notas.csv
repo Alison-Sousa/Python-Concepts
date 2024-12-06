@@ -1,0 +1,43 @@
+﻿Aluno;Disciplina;Atividades;Prova;Trabalho;Média;Situação;Exame;Média Final;Situação
+Sandra Puga;Matemática;5;8;9;7,7;Aprovado;;7,7;Aprovado
+Sandra Puga;Biologia;6;7;6;6,5;Exame;7;6,75;Reprovado
+Sandra Puga;Química;7;9;8;8,3;Aprovado;;8,3;Aprovado
+Sandra Puga;Gramática;8;8;8;8;Aprovado;;8;Aprovado
+Sandra Puga;Literatura;9;5;9;7;Aprovado;;7;Aprovado
+Sandra Puga;Informática;10;4;9;6,7;Exame;9;7,85;Aprovado
+Mickey Mouse;Matemática;9;3;9;6;Exame;8;7;Aprovado
+Mickey Mouse;Biologia;6;7;10;7,7;Aprovado;;7,7;Aprovado
+Mickey Mouse;Química;7;5;8;6,3;Exame;5;5,65;Reprovado
+Mickey Mouse;Gramática;4;8;8;7,2;Aprovado;;7,2;Aprovado
+Mickey Mouse;Literatura;9;10;9;9,5;Aprovado;;9,5;Aprovado
+Mickey Mouse;Informática;10;8;9;8,7;Aprovado;;8,7;Aprovado
+Pato Donalds;Matemática;7;8;9;8,1;Aprovado;;8,1;Aprovado
+Pato Donalds;Biologia;8;8;10;8,6;Aprovado;;8,6;Aprovado
+Pato Donalds;Química;6;10;8;8,6;Aprovado;;8,6;Aprovado
+Pato Donalds;Gramática;9;5;8;6,7;Exame;9;7,85;Aprovado
+Pato Donalds;Literatura;4;10;9;8,5;Aprovado;;8,5;Aprovado
+Pato Donalds;Informática;0;5;9;5,2;Exame;3;4,1;Reprovado
+Minie Mouse;Matemática;10;9;9;9,2;Aprovado;;9,2;Aprovado
+Minie Mouse;Biologia;9;9;10;9,3;Aprovado;;9,3;Aprovado
+Minie Mouse;Química;10;9;9;9,2;Aprovado;;9,2;Aprovado
+Minie Mouse;Gramática;10;8;8;8,4;Aprovado;;8,4;Aprovado
+Minie Mouse;Literatura;10;10;9;9,7;Aprovado;;9,7;Aprovado
+Minie Mouse;Informática;10;10;10;10;Aprovado;;10;Aprovado
+Pinóquio;Matemática;1;2;7;3,3;Exame;9;6,15;Reprovado
+Pinóquio;Biologia;4;3;6;4,1;Exame;10;7,05;Aprovado
+Pinóquio;Química;3;4;5;4,1;Exame;10;7,05;Aprovado
+Pinóquio;Gramática;1;5;4;3,9;Exame;5;4,45;Reprovado
+Pinóquio;Literatura;1;6;6;5;Exame;10;7,5;Aprovado
+Pinóquio;Informática;1;7;10;6,7;Exame;8;7,35;Aprovado
+Grilo Falante ;Matemática;7;9;7;8;Aprovado;;8;Aprovado
+Grilo Falante ;Biologia;6;9;6;7,5;Aprovado;;7,5;Aprovado
+Grilo Falante ;Química;5;9;5;7;Aprovado;;7;Aprovado
+Grilo Falante ;Gramática;4;8;4;6;Exame;5;5,5;Reprovado
+Grilo Falante ;Literatura;6;10;6;8;Aprovado;;8;Aprovado
+Grilo Falante ;Informática;10;10;10;10;Aprovado;;10;Aprovado
+Fada Azul;Matemática;9,5;9;9;9,1;Aprovado;;9,1;Aprovado
+Fada Azul;Biologia;9;9;10;9,3;Aprovado;;9,3;Aprovado
+Fada Azul;Química;8,5;9;10;9,2;Aprovado;;9,2;Aprovado
+Fada Azul;Gramática;10;10;10;10;Aprovado;;10;Aprovado
+Fada Azul;Literatura;10;10;9,5;9,85;Aprovado;;9,85;Aprovado
+Fada Azul;Informática;10;10;10;10;Aprovado;;10;Aprovado
